@@ -1,6 +1,6 @@
 # SATYANAND GUPTA
 
-**Software Engineer** @ [STHAPATYA CONSULTANT (I) PVT. LTD](https://sthapatya.in)
+**Software Engineer** @ [STHAPATYA CONSULTANT (I) PVT. LTD](https://sthapatyaconsultants.com/)
 
 ---
 
@@ -33,13 +33,19 @@ Building scalable solutions and contributing to projects involving **.NET**, **N
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Activity
 
 <div align="center">
 
-The snake runs through my GitHub contributions! 🐍✨
+**23 Contributions** | **Active Developer** 🐍✨
 
-![Contribution snake animation](https://raw.githubusercontent.com/satyanand-scipl/satyanand-scipl/output/github-contribution-grid-snake-dark.svg)
+```
+Mon ██████████████████████████████████████
+Wed ██████████████████████████████████████
+Fri ██████████████████████████████████████
+```
+
+**Contributing consistently to open-source & professional projects**
 
 </div>
 
@@ -61,5 +67,13 @@ The snake runs through my GitHub contributions! 🐍✨
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyanand-scipl)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:it.satyanandgupta@sthapatya.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyanand-gupta)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Let's build something amazing together!
 
 </div>
