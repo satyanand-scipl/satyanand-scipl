@@ -6,7 +6,7 @@
 
 ## 🐍 About Me
 
-Building scalable solutions with modern tech stack. Contributing to projects involving **.NET**, **Next.js**, and **Database architectures**.
+Building scalable solutions and contributing to projects involving **.NET**, **Next.js**, and **database systems**.
 
 ---
 
@@ -23,38 +23,23 @@ Building scalable solutions with modern tech stack. Contributing to projects inv
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyanand-scipl&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=satyanand-scipl&theme=dark&hide_border=true)
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-```
-███████████████████████████████████████  23 Contributions
-🐍 🐍 🐍 Moving through the code... 🐍 🐍 🐍
-```
-
-![Contribution Graph](https://ghchart.rshah.org/satyanand-scipl)
 
 </div>
 
 ---
 
-## 📈 Progress & Expertise
+## 🐍 Contribution Snake
 
 <div align="center">
 
-### 🚀 Development Journey
+The snake runs through my GitHub contributions! 🐍✨
 
-```
-.NET Development        ████████████░░░░░░░░░░░░ 50% 🐍
-Next.js & React         ██████████████░░░░░░░░░░ 60% 🐍
-Database Architecture   ███████████░░░░░░░░░░░░░ 55% 🐍
-```
+![Contribution snake animation](https://raw.githubusercontent.com/satyanand-scipl/satyanand-scipl/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -62,10 +47,10 @@ Database Architecture   ███████████░░░░░░░�
 
 ## 🎯 What I'm Building
 
-- 🔧 **Backend Systems** with .NET & C#
-- ⚡ **Frontend Magic** with Next.js & React
-- 🗄️ **Database Solutions** with PostgreSQL & MongoDB
-- 🚀 **Scalable Applications** with modern architecture
+- 🔧 Backend systems with **.NET and C#**
+- ⚡ Modern web experiences with **Next.js**
+- 🗄️ Reliable and scalable **database solutions**
+- 🚀 Maintainable applications with clean architecture
 
 ---
 
@@ -76,13 +61,5 @@ Database Architecture   ███████████░░░░░░░�
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satyanand-scipl)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:it.satyanandgupta@sthapatya.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/satyanand-gupta)
-
-</div>
-
----
-
-<div align="center">
-
-### 🐍✨ Coding with passion, building with purpose ✨🐍
 
 </div>
